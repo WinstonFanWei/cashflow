@@ -1,0 +1,8 @@
+out_err/
+remain_result/
+.idea/
+.vscode/
+*.xlsx
+*.log
+*.txt
+*.sftp
